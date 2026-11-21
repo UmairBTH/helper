@@ -1,0 +1,7 @@
+{
+  "raw_records": 24322,
+  "duplicate_question_records": 833,
+  "empty_or_incomplete_records": 452,
+  "duplicate_or_empty_passage_pairs": 486,
+  "eligible_question_pairs": 22551
+}

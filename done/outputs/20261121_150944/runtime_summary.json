@@ -1,0 +1,13 @@
+{
+  "download_or_cache_lookup_seconds": 6.492785079000015,
+  "baseline_seconds": 0.7317133960000035,
+  "distilbert_training_and_selection_seconds": 1767.2958015949998,
+  "test_evaluation_and_analysis_seconds": 15.242841938000083,
+  "total_runtime_seconds": 1796.4861195520002,
+  "total_runtime_with_download_seconds": 1802.9789046310002,
+  "runtime_limit_seconds": 3600,
+  "within_runtime_limit": true,
+  "question_count": 2500,
+  "selected_distilbert_epoch": 5,
+  "device": "cpu"
+}

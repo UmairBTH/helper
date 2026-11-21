@@ -1,0 +1,5 @@
+{
+  "selected_tfidf_setting": "TF-IDF unigrams and bigrams",
+  "selected_distilbert_epoch": 5,
+  "decision_threshold": 0.5
+}

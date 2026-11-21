@@ -1,0 +1,7 @@
+{
+  "distilbert_minus_tfidf_macro_f1": 0.04200095199842957,
+  "bootstrap_95_percent_interval": [
+    0.02011546232966168,
+    0.06417668850814064
+  ]
+}

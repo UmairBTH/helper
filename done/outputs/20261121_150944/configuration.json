@@ -1,0 +1,12 @@
+{
+  "number_of_questions": 2500,
+  "maximum_input_tokens": 128,
+  "batch_size": 16,
+  "number_of_epochs": 5,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "frozen_transformer_layers": 0,
+  "maximum_tfidf_features": 20000,
+  "runtime_limit_seconds": 3600,
+  "maximum_cpu_threads": 4
+}

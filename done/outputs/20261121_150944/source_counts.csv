@@ -1,0 +1,16 @@
+split,source,human-written,AI-generated
+test,finance,41,41
+test,medicine,14,14
+test,open_qa,10,10
+test,reddit_eli5,179,179
+test,wiki_csai,6,6
+training,finance,354,354
+training,medicine,101,101
+training,open_qa,92,92
+training,reddit_eli5,1381,1381
+training,wiki_csai,72,72
+validation,finance,41,41
+validation,medicine,17,17
+validation,open_qa,21,21
+validation,reddit_eli5,164,164
+validation,wiki_csai,7,7
